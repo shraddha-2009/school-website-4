@@ -1,0 +1,38 @@
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+    font-family: 'Pattaya', sans-serif;
+}
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid #a61486;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
+
+
+
+.movie_head i {
+    float: right;
+}
+
+.movie_head {
+    padding: 6px 22px;
+    float: left
+}
+
+.movie_head span {
+    float: left
+}
